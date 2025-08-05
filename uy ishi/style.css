@@ -1,0 +1,36 @@
+body{
+ background-color: rgb(147, 17, 17);
+
+}
+.a1{
+  color: white;
+  background-color: aqua;
+  text-align: center ;
+  
+
+}
+.container{
+ background-color: blanchedalmond;
+ width: 1504px; 
+ height: 1100px;
+}
+.a2{
+  background-color: black;
+  color: white;
+  height: 25px;
+  border-bottom-left-radius: 10px;   
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+
+}
+.box{
+  background-color: white;
+  width: 370px;
+  height: 350px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border: 1px solid black;  
+}
